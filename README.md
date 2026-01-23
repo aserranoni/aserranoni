@@ -1,57 +1,57 @@
-```bash
-> neofetch
-```
+# Ariel Serranoni
 
-<div align="left" style="font-family: monospace;">
-<pre>
-       .---.        <b style="color: #4ade80">User:</b> Ariel Serranoni
-      /     \       <b style="color: #4ade80">Role:</b> Senior Software Engineer & Applied Mathematician
-      |  O  |       <b style="color: #4ade80">Focus:</b> DeFi, Solana, Systems Architecture
-      \     /       <b style="color: #4ade80">Tools:</b> Doom Emacs, Rust, Linux
-       '---'        <b style="color: #4ade80">Status:</b> Building 0-1 Primitives
-</pre>
-</div>
+**Applied Mathematician & Senior Fullstack Engineer**
 
-```rust
-// bio.rs
-fn main() {
-    let ariel = Engineer {
-        background: "M.Sc. Candidate @ USP | Applied Math",
-        mission: "Turning math into money on-chain",
-        prev_work: "Co-founder @ Mindsend ($2M+ TVL)",
-        current_obsession: "Solana High-Performance Systems",
-    };
-    
-    println!("Building scalable financial infrastructure.");
-}
-```
+I bridge the gap between rigorous mathematical theory and high-performance innovative engineering. My worldview as a mathematician is deeply rooted in the **convex realm** but I'm also a big fan of **game theory** , **information theory** and **probability** . In the programming landscape, I like to keep pushing boundaries of cutting-edge tech, mainly in **Blockchain** and **"AI"**. 
 
-<br />
+### `~/professional-background`
 
-### `~/skills`
+- **Senior Fullstack Engineer** (4+ years) with a strong focus in Web3, mainly in **DeFi** and **Governance**.
+- **Co-founder** at [mindsend-datatech](https://github.com/mindsend-datatech).
+- **Track Record:** 
+    - Led **Kadena Cabinet** and helped build **eckoDex**.
+    - Managed millions in TVL with zero security incidents over years of operation.
+- **Academic:** Applied Mathematician with an M.Sc. in Computer Science. USP Alumni.
+
+---
+
+### `~/open-source-tooling`
+
+I build tools to sharpen my workflow and contribute to the ecosystem:
+
+- 🤖 [**ai-docs**](https://github.com/aserranoni/ai-docs): AI-powered documentation.
+- 🧠 [**org-roam-mcp**](https://github.com/aserranoni/org-roam-mcp): Knowledge management for agents.
+- 💬 [**whatsapp-mcp**](https://github.com/aserranoni/whatsapp-mcp): Agentic communication.
+
+*Feel free to use or improve any of them.*
+
+---
+
+### `~/tech-stack`
+
+I care more about first principles than tooling, but these are some of the tools I use the most
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,solana,ts,python,csharp,linux,docker,git,postgres,r,&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=emacs,ts,js,yarn,react,nextjs,redis,vercel,python,cs,dotnet,linux,docker,git,postgres,r,julia,latex&theme=dark" alt="Tech Stack" />
 </p>
 
-<br />
-
+---
+<!-- 
 ### `~/stats`
 
+Here is a summary of my GitHub activity over the years:
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aserranoni&show_icons=true&theme=highcontrast&hide_border=true&bg_color=000000&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aserranoni&show_icons=true&theme=highcontrast&include_all_commits=true&hide_border=true&bg_color=000000&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aserranoni&layout=compact&theme=highcontrast&hide_border=true&bg_color=000000&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9" alt="Languages" />
 </div>
 
-<br />
+--- -->
 
 ### `~/connect`
 
-```bash
-# Initialize connection
-curl https://linkedin.com/in/aserranoni
-mail -s "Hello" arielserranoni@gmail.com
-```
+You can connect with me via:
+
 <p align="left">
   <a href="https://linkedin.com/in/aserranoni">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -60,3 +60,9 @@ mail -s "Hello" arielserranoni@gmail.com
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
+<!-- ### `~/support`
+
+If any of my code is useful to you, I gratefully accept [donations](https://github.com/aserranoni).
+ -->
