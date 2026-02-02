@@ -2,7 +2,7 @@
 
 **Applied Mathematician & Senior Fullstack Engineer**
 
-I bridge the gap between rigorous mathematical theory and high-performance innovative engineering. My worldview as a mathematician is deeply rooted in the **convex realm** but I'm also a big fan of **game theory** , **information theory** and **probability** . In the programming landscape, I like to keep pushing boundaries of cutting-edge tech, mainly in **Blockchain** and **"AI"**. 
+I bridge the gap between rigorous mathematical theory and high-performance innovative engineering. My worldview as a mathematician is deeply rooted in the **convex realm** but I'm also a big fan of **game theory** , **information theory** and **probability**. In the programming landscape, I like to keep pushing boundaries of cutting-edge tech, mainly in **Blockchain** and **"AI"**. 
 
 ### `~/professional-background`
 
