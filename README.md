@@ -53,7 +53,7 @@ Here is a summary of my GitHub activity over the years:
 You can connect with me via:
 
 <p align="left">
-  <a href="https://linkedin.com/in/aserranoni">
+  <a href="https://www.linkedin.com/in/ariel-serranoni-1b762815a">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:arielserranoni@gmail.com">
