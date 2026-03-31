@@ -19,7 +19,7 @@ I bridge the gap between rigorous mathematical theory and high-performance innov
 
 I build tools to sharpen my workflow and contribute to the ecosystem:
 
-- 🤖 [**ai-docs**](https://github.com/aserranoni/ai-docs): AI-powered documentation.
+- 🤖 [**ai-docs**](https://github.com/aserranoni/ai-docs): AI agent setup manager.
 - 🧠 [**org-roam-mcp**](https://github.com/aserranoni/org-roam-mcp): Knowledge management for agents.
 - 💬 [**whatsapp-mcp**](https://github.com/aserranoni/whatsapp-mcp): Agentic communication.
 
@@ -29,7 +29,7 @@ I build tools to sharpen my workflow and contribute to the ecosystem:
 
 ### `~/tech-stack`
 
-I care more about first principles than tooling, but these are some of the tools I use the most
+I care more about first principles than tooling, but here is a list of the software I use the most
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=emacs,ts,js,yarn,react,nextjs,redis,vercel,python,cs,dotnet,linux,docker,git,postgres,r,julia,latex&theme=dark" alt="Tech Stack" />
