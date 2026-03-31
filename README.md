@@ -59,6 +59,9 @@ You can connect with me via:
   <a href="mailto:arielserranoni@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+<a href="https://x.com/aserranoni">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 
