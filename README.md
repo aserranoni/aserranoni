@@ -6,7 +6,7 @@ I bridge the gap between rigorous mathematical theory and high-performance innov
 
 ### `~/professional-background`
 
-- **Senior Fullstack Engineer** (4+ years) with a strong focus in Web3, mainly in **DeFi** and **Governance**.
+- **Senior Fullstack Engineer** (5+ years) with a strong focus in Web3, mainly in **DeFi** and **Governance**.
 - **Co-founder** at [mindsend-datatech](https://github.com/mindsend-datatech).
 - **Track Record:** 
     - Led **Kadena Cabinet** and helped build **eckoDex**.
